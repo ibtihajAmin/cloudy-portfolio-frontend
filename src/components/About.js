@@ -7,9 +7,9 @@ export default function About() {
             Trusted by Software Engineers Around The World
           </h3>
           <p className="text-3xl py-6 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu
-            elit pharetra, tincidunt metus at. Praesent tincidunt pretium lectus
-            a congue.
+            You can’t optimize what you can’t see. Discover unused workloads,
+            get recommendations on how best to improve, auto power on/off
+            resources, and set quotas to ensure cost compliance.
           </p>
         </div>
 

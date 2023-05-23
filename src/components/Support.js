@@ -22,10 +22,10 @@ export default function Support() {
             Finding the right team
           </h3>
           <p className="py-4 text-3xl text-slate-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-            repudiandae veritatis ratione error tenetur, voluptates architecto
-            possimus ad! Omnis minima ea quidem quisquam unde beatae, minus illo
-            et cum vel?
+            Get the visibility and the actionable insights you need for all your
+            clouds and tools in one place. Automate the collection of
+            information, create custom dashboards, easily create and share
+            reports, and take actions to optimize
           </p>
         </div>
 
@@ -35,9 +35,9 @@ export default function Support() {
               <PhoneIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]" />
               <h3 className="font-bold text-2xl my-6">Sales</h3>
               <p className="text-gray-600 text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Excepturi provident iure placeat blanditiis ea sint earum hic
-                iste quibusdam exercitationem.
+                While CLOUDY is widely known as a private cloud platform, you
+                can access the same open infrastructure immediately from dozens
+                of public cloud providers around the world
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
@@ -51,9 +51,9 @@ export default function Support() {
               <SupportIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]" />
               <h3 className="font-bold text-2xl my-6">Technical Support</h3>
               <p className="text-gray-600 text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Excepturi provident iure placeat blanditiis ea sint earum hic
-                iste quibusdam exercitationem.
+                While CLOUDY is widely known as a private cloud platform, you
+                can access the same open infrastructure immediately from dozens
+                of public cloud providers around the world
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
@@ -67,9 +67,9 @@ export default function Support() {
               <ChipIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]" />
               <h3 className="font-bold text-2xl my-6">Media Inquiries</h3>
               <p className="text-gray-600 text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Excepturi provident iure placeat blanditiis ea sint earum hic
-                iste quibusdam exercitationem.
+                While CLOUDY is widely known as a private cloud platform, you
+                can access the same open infrastructure immediately from dozens
+                of public cloud providers around the world
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">

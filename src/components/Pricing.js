@@ -12,9 +12,9 @@ export default function Pricing() {
             The right price for your research.
           </h3>
           <p className="text-3xl">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia
-            laudantium odio ullam inventore aliquid ipsum quasi tenetur velit
-            voluptatum iste.
+            Deployed by hundreds. Proven production at scale. CLOUDY is a set of
+            software components that provide common services for cloud
+            infrastructure
           </p>
         </div>
 
@@ -25,7 +25,7 @@ export default function Pricing() {
             </span>
             <div>
               <p className="text-6xl font-bold py-4 flex">
-                $49
+                $59
                 <span className="text-xl text-slate-500 flex flex-col justify-end">
                   /mo
                 </span>
@@ -64,7 +64,7 @@ export default function Pricing() {
             </span>
             <div>
               <p className="text-6xl font-bold py-4 flex">
-                $99
+                $199
                 <span className="text-xl text-slate-500 flex flex-col justify-end">
                   /mo
                 </span>
