@@ -61,7 +61,7 @@ export default function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 CLOUDY services are comprised of different composable projects
                 that deliver programmable infrastructure. You can combine the
-                services in different ways based on your use case.
+                services in different ways based on use case.
               </p>
             </div>
           </div>
